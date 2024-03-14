@@ -5,6 +5,7 @@
 - 📫 How to reach me
 -# LinkedIn = www.Linkedin.com/eyosafet-alem-abay
 - #my email= Eyosafetalem@gmail.com
+- portfolio link:- https://www.coursera.org/user/241dda19d5bd705bfb235257046d80ac
 
 <!---
 EyosafetAlem767655/EyosafetAlem767655 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
